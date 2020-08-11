@@ -2,12 +2,6 @@
 
 I'm a Java developer, I'd like to make some contributions for Java open source and share some thoughts on my blog and github.
 
-###  How to reach me 📫 
-
-- GitHub：<https://github.com/shiyindaxiaojie>
-- Blog：<https://mengxiangge.work>
-- Email：<shiyindaxiaojie@gmail.com>
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shiyindaxiaojie&show_icons=true&theme=dark)
 
 <!--
