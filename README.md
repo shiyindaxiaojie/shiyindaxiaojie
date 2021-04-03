@@ -2,7 +2,7 @@
 
 I'm a Java developer, I'd like to make some contributions for Java open source and share some thoughts on my blog and github.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=shiyindaxiaojie&show_icons=true&theme=dark&renew=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shiyindaxiaojie&show_icons=true&theme=white&renew=true)
 
 <!--
 **shiyindaxiaojie/shiyindaxiaojie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
