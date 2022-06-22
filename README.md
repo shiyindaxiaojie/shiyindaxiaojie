@@ -4,4 +4,4 @@ I'm a Java developer. I'd like to make some contributions for Java open source a
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shiyindaxiaojie&count_private=true&show_icons=true&orgs=" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiyindaxiaojie&orgs=&hide=css,shell,batchfile,javascript" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiyindaxiaojie&orgs=&hide=css,shell,batchfile,javascript,xml" />
