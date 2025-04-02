@@ -8,9 +8,6 @@ I'm a software engineer. I'd like to make some contributions for open source and
 
 架构分享：[传送门](https://www.processon.com/u/5ff69eeb5653bb4ea210bd7e)
 
-微信公众号：梦想歌的技术笔记
-
-
 
 <a href="https://github.com/jstrieb/github-stats">
 
