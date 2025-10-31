@@ -1,7 +1,5 @@
 # Hi 🍨
 
-### About me
-
 I'm a software engineer. I'd like to make some contributions for open source and share some thoughts on my blog and github.
 
 我是一名软件工程师。我喜欢在 Github 维护一些开源项目工具，并在我的博客分享相关经验。
