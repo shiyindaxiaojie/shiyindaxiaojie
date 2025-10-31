@@ -12,12 +12,12 @@ I'm a software engineer. I'd like to make some contributions for open source and
 
 - 📝 I regularly write articles on **[mengxiangge.netlify.app](https://mengxiangge.netlify.app)**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/shiyindaxiaojie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shiyindaxiaojie" height="30" width="40" /></a>
 <a href="https://fb.com/shiyindaxiaojie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shiyindaxiaojie" height="30" width="40" /></a>
 <a href="https://twitter.com/shiyindaxiaojie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiyindaxiaojie" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
