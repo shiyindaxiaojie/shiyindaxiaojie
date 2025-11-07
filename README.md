@@ -1,10 +1,10 @@
 # Hello, World! 🍨
 
-I'm a software engineer. I'd like to make some contributions for open source and share some thoughts on my blog and github.
+Passionate Software Engineer focused on building scalable backend systems. I actively contribute to open-source projects and share my technical insights on my blog and GitHub.
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=shiyindaxiaojie&row=1&rank=-C,-?" alt="shiyindaxiaojie" /> </p>
 
-- 💬 Ask me about **Java, Go, Cloud Native, and CI/CD**
+- 💬 Ask me about **Java, Go, Python, Cloud Native, and CI/CD**
 
 - 📫 How to reach me **shiyindaxiaojie@gmail.com**
 
