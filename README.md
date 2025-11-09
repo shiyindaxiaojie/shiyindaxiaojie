@@ -2,7 +2,7 @@
 
 Passionate Software Engineer focused on building scalable backend systems. I actively contribute to open-source projects and share my technical insights on my blog and GitHub.
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=shiyindaxiaojie&theme=light&row=1&rank=-C,-?" alt="shiyindaxiaojie" /> </p>
+<p align="left"> <img src="https://github-profile-trophy-l0hme99z9-shiyindaxiaojies-projects.vercel.app/?username=shiyindaxiaojie&theme=light&row=1&rank=-C,-?" alt="shiyindaxiaojie" /> </p>
 
 - 💬 Ask me about **Java, Go, Python, Cloud Native, and CI/CD**
 
