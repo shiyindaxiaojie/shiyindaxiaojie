@@ -8,7 +8,7 @@ Passionate Software Engineer focused on building scalable backend systems. I act
 
 - 📫 How to reach me **shiyindaxiaojie@gmail.com**
 
-- 📝 I regularly write articles on **[mengxiangge.netlify.app](https://mengxiangge.netlify.app)** and occasionally share useful code snippets on [Gist](https://gist.github.com/shiyindaxiaojie)
+- 📝 I regularly write articles on **[mengxiangge.netlify.app](https://mengxiangge.netlify.app)** and occasionally share useful code snippets on **[Gist](https://gist.github.com/shiyindaxiaojie)**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
