@@ -6,7 +6,7 @@ Passionate Software Engineer focused on building scalable backend systems. I act
 
 - 💬 Ask me about **Java, Go, Python, Cloud Native, and CI/CD**
 
-- 📫 How to reach me **shiyindaxiaojie@gmail.com** or contact me through WeChat at pipiluo1813986321
+- 📫 How to reach me **shiyindaxiaojie@gmail.com** or contact me through WeChat at **pipiluo1813986321**
 
 - 📝 I regularly write articles on **[mengxiangge.netlify.app](https://mengxiangge.netlify.app)** and occasionally share useful code snippets on **[Gist](https://gist.github.com/shiyindaxiaojie)**
 
