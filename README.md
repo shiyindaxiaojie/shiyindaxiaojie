@@ -43,7 +43,6 @@ Passionate Software Engineer focused on building scalable backend systems. I act
 <h3 align="left">GitHub Stats and Top Languages:</h3>
 <p align="left">
 <a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/shiyindaxiaojie/github-stats/blob/master/generated/overview.svg" alt="github-overview.svg" width="400" height="233"/> </a>
-<img src="https://github.com/shiyindaxiaojie/github-stats/blob/master/generated/languages.svg" alt="github-languages.svg" width="400" height="233"/> </a>
+<img src="https://github.com/shiyindaxiaojie/github-stats/blob/master/generated/overview.svg" alt="github-overview.svg" width="400" height="233"/></a><img src="https://github.com/shiyindaxiaojie/github-stats/blob/master/generated/languages.svg" alt="github-languages.svg" width="400" height="233"/></a>
 </a>
 </p>
