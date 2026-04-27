@@ -4,7 +4,7 @@ Passionate Software Engineer focused on building scalable backend systems. I act
 
 <p align="left"><img align="center" src="https://github-profile-trophy-mocha.vercel.app/?username=shiyindaxiaojie&theme=light&row=1&rank=-C,-?" alt="shiyindaxiaojie" /></p>
 
-- 💬 Ask me about **Java, Go, Python, Cloud Native, and CI/CD**
+- 💬 Ask me about **Java, Go, Python, Cloud Native, CI/CD and AiOps**
 
 - 📫 How to reach me **shiyindaxiaojie@gmail.com** or contact me through WeChat at **pipiluo1813986321**
 
